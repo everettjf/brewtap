@@ -3,7 +3,7 @@ class Moex < Formula
     homepage "https://github.com/everettjf/MachOExplorer"
     url "https://github.com/everettjf/MachOExplorer/releases/download/v0.4.0/moex.tar.gz"
     version "0.4.0"
-    sha256 "260021d5a3efd48838be38e20f420852810cc8348814b37f243cc77cf7cf7a35"
+    sha256 "954075ab4a0719fae217ae7dfd6b812febd75e815c4312677f53d939d46fa006"
   
     def install
       bin.install "bin/moex"
