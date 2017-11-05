@@ -1,4 +1,4 @@
-class Notes < Formula
+class Moex < Formula
     desc "CLI tool for quick explore mach-o file"
     homepage "https://github.com/everettjf/MachOExplorer"
     url "https://github.com/kylebebak/notes/archive/1.0.1.tar.gz"
